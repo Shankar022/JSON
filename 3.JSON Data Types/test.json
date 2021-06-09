@@ -1,6 +1,6 @@
 {
-  "person": {
-    "0": {
+  "person": [
+     {
       "name": "shankar",
       "age": 23,
       "interest": [
@@ -9,7 +9,7 @@
         "interest3"
       ]
     },
-    "1": {
+     {
       "name": "shankar",
       "age": 23,
       "old": true,
@@ -19,7 +19,7 @@
         "interest3"
       ]
     },
-    "2": {
+     {
       "name": null,
       "age": 23,
       "old": false,
@@ -29,7 +29,7 @@
         "interest3"
       ]
     },
-    "3": {
+     {
       "name": "sristhi",
       "age": 23,
       "old": true,
@@ -39,6 +39,6 @@
         "interest3"
       ]
     }
-  }
+  ]
 }
 

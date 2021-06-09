@@ -11,7 +11,10 @@ xhr.onreadystatechange = function(){
 };
 xhr.send();
 show = (data) =>{
-    console.log(data)
+    console.log(data.person)
+    for(let i = 0; i < data.person.length; i++){
+        console.log(data.person[i]);
+    }
 };
 
 /*
