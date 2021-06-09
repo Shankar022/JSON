@@ -1,0 +1,44 @@
+{
+  "person": {
+    "0": {
+      "name": "shankar",
+      "age": 23,
+      "interest": [
+        "interest1",
+        "interest2",
+        "interest3"
+      ]
+    },
+    "1": {
+      "name": "shankar",
+      "age": 23,
+      "old": true,
+      "interest": [
+        "interest1",
+        "interest2",
+        "interest3"
+      ]
+    },
+    "2": {
+      "name": null,
+      "age": 23,
+      "old": false,
+      "interest": [
+        "interest1",
+        "interest2",
+        "interest3"
+      ]
+    },
+    "3": {
+      "name": "sristhi",
+      "age": 23,
+      "old": true,
+      "interest": [
+        "interest1",
+        "interest2",
+        "interest3"
+      ]
+    }
+  }
+}
+
